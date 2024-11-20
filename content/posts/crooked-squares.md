@@ -1,6 +1,6 @@
 +++
 title = "Crooked Squares"
-date = "2024-11-19T21:37:18-03:00"
+date = "2024-11-14T19:27:30-03:00"
 author = ""
 authorTwitter = "" #do not include @
 cover = ""
