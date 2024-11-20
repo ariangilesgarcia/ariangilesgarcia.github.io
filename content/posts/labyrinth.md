@@ -1,6 +1,6 @@
 +++
-title = "Entropy"
-date = "2024-11-19T21:06:36-03:00"
+title = "Labyrinth"
+date = "2024-11-19T21:37:22-03:00"
 author = ""
 authorTwitter = "" #do not include @
 cover = ""
@@ -14,8 +14,8 @@ hideComments = false
 color = "" #color from the theme settings
 +++
 
-# Entropy
+# Labyrinth
 
-**Interactive** version available [here](https://ariangilesgarcia.github.io/art/grids/entropy/).
+**Interactive** version available [here](https://ariangilesgarcia.github.io/art/grids/labyrinth/).
 
-![Entropy](/img/art-entropy.png)
+![Labyrinth](/img/art-labyrinth.png)

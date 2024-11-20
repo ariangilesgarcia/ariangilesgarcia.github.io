@@ -1,6 +1,6 @@
 +++
-title = "Entropy"
-date = "2024-11-19T21:06:36-03:00"
+title = "Color Shapes"
+date = "2024-11-19T21:33:02-03:00"
 author = ""
 authorTwitter = "" #do not include @
 cover = ""
@@ -14,8 +14,8 @@ hideComments = false
 color = "" #color from the theme settings
 +++
 
-# Entropy
+# Color shapes
 
-**Interactive** version available [here](https://ariangilesgarcia.github.io/art/grids/entropy/).
+**Interactive** version available [here](https://ariangilesgarcia.github.io/art/grids/color-shapes/).
 
-![Entropy](/img/art-entropy.png)
+![Color shapes](/img/art-color-shapes.png)

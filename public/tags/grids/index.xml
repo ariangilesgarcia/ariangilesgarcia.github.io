@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grids on Arian | ART</title>
+    <link>http://localhost:1313/tags/grids/</link>
+    <description>Recent content in Grids on Arian | ART</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 19 Nov 2024 21:37:18 -0300</lastBuildDate><atom:link href="http://localhost:1313/tags/grids/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crooked Squares</title>
+      <link>http://localhost:1313/posts/crooked-squares/</link>
+      <pubDate>Tue, 19 Nov 2024 21:37:18 -0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/crooked-squares/</guid>
+      <description>&lt;h1 id=&#34;crooked-squares&#34;&gt;Crooked squares&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Interactive&lt;/strong&gt; version available &lt;a href=&#34;https://ariangilesgarcia.github.io/art/grids/crooked-squares/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Crooked squares&#34; src=&#34;http://localhost:1313/img/art-crooked-squares.png&#34;&gt;&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;crooked-squares&#34;&gt;Crooked squares&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Interactive&lt;/strong&gt; version available &lt;a href=&#34;https://ariangilesgarcia.github.io/art/grids/crooked-squares/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Crooked squares&#34; src=&#34;http://localhost:1313/img/art-crooked-squares.png&#34;&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
