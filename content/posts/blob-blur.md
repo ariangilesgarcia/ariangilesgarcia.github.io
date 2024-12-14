@@ -1,11 +1,11 @@
 +++
-title = "Entropy"
-date = "2024-11-19T21:06:36-03:00"
+title = "Blob-blur"
+date = "2024-12-14T11:08:49-03:00"
 author = ""
 authorTwitter = "" #do not include @
 cover = ""
 coverCaption = ""
-tags = ["art", "grids"]
+tags = ["art"]
 keywords = ["", ""]
 description = ""
 showFullContent = false
@@ -14,8 +14,8 @@ hideComments = false
 color = "" #color from the theme settings
 +++
 
-# Entropy
+# Blob blur
 
-**Interactive** version available [here](https://ariangilesgarcia.github.io/art/src/entropy/).
+**Interactive** version available [here](https://ariangilesgarcia.github.io/art/src/blob-blur/).
 
-![Entropy](/img/art-entropy.png)
+![Blob-blur](/img/art-blob-blur.png)

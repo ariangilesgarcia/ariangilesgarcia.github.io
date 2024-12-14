@@ -3,21 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-11-25T19:01:43-03:00</lastmod>
+    <lastmod>2024-12-14T11:08:49-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/art/</loc>
-    <lastmod>2024-11-25T19:01:43-03:00</lastmod>
+    <lastmod>2024-12-14T11:08:49-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/blob-blur/</loc>
+    <lastmod>2024-12-14T11:08:49-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-12-14T11:08:49-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-12-14T11:08:49-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/ausstellung/</loc>
     <lastmod>2024-11-25T19:01:43-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/grids/</loc>
-    <lastmod>2024-11-25T19:01:43-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-11-25T19:01:43-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-11-25T19:01:43-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/labyrinth/</loc>

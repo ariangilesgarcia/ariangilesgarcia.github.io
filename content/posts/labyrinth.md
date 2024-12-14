@@ -16,6 +16,6 @@ color = "" #color from the theme settings
 
 # Labyrinth
 
-**Interactive** version available [here](https://ariangilesgarcia.github.io/art/grids/labyrinth/).
+**Interactive** version available [here](https://ariangilesgarcia.github.io/art/src/labyrinth/).
 
 ![Labyrinth](/img/art-labyrinth.png)

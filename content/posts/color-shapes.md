@@ -16,6 +16,6 @@ color = "" #color from the theme settings
 
 # Color shapes
 
-**Interactive** version available [here](https://ariangilesgarcia.github.io/art/grids/color-shapes/).
+**Interactive** version available [here](https://ariangilesgarcia.github.io/art/src/color-shapes/).
 
 ![Color shapes](/img/art-color-shapes.png)
