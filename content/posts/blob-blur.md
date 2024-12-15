@@ -14,8 +14,4 @@ hideComments = false
 color = "" #color from the theme settings
 +++
 
-# Blob blur
-
-**Interactive** version available [here](https://ariangilesgarcia.github.io/art/src/blob-blur/).
-
-![Blob-blur](/img/art-blob-blur.png)
+[![Blob-blur](/img/art-blob-blur.png)](https://ariangilesgarcia.github.io/art/src/blob-blur/)

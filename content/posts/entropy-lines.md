@@ -14,5 +14,4 @@ hideComments = false
 color = "" #color from the theme settings
 +++
 
-[![Entropy lines](/img/art-entropy-lines.png)
-](https://ariangilesgarcia.github.io/art/src/entropy-lines/).
+[![Entropy lines](/img/art-entropy-lines.png)](https://ariangilesgarcia.github.io/art/src/entropy-lines/)

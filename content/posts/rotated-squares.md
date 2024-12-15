@@ -14,8 +14,4 @@ hideComments = false
 color = "" #color from the theme settings
 +++
 
-# Rotated squares
-
-**Interactive** version available [here](https://ariangilesgarcia.github.io/art/src/rotated-squares/).
-
-![Rotated squares](/img/art-rotated-squares.png)
+[![Rotated squares](/img/art-rotated-squares.png)](https://ariangilesgarcia.github.io/art/src/rotated-squares/)

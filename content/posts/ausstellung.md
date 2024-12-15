@@ -14,6 +14,4 @@ hideComments = false
 color = "" #color from the theme settings
 +++
 
-**Interactive** version available [here](https://ariangilesgarcia.github.io/art/src/ausstellung/).
-
-![Crooked squares](/img/art-ausstellung.png)
+[![Crooked squares](/img/art-ausstellung.png)](https://ariangilesgarcia.github.io/art/src/ausstellung/)

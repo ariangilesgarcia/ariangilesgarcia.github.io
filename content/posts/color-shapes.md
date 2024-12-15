@@ -14,8 +14,4 @@ hideComments = false
 color = "" #color from the theme settings
 +++
 
-# Color shapes
-
-**Interactive** version available [here](https://ariangilesgarcia.github.io/art/src/color-shapes/).
-
-![Color shapes](/img/art-color-shapes.png)
+[![Color shapes](/img/art-color-shapes.png)](https://ariangilesgarcia.github.io/art/src/color-shapes/)

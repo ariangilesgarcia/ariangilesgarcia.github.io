@@ -14,8 +14,4 @@ hideComments = false
 color = "" #color from the theme settings
 +++
 
-# Crooked squares
-
-**Interactive** version available [here](https://ariangilesgarcia.github.io/art/src/crooked-squares/).
-
-![Crooked squares](/img/art-crooked-squares.png)
+[![Crooked squares](/img/art-crooked-squares.png)](https://ariangilesgarcia.github.io/art/src/crooked-squares/)

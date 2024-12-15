@@ -14,8 +14,4 @@ hideComments = false
 color = "" #color from the theme settings
 +++
 
-# Entropy
-
-**Interactive** version available [here](https://ariangilesgarcia.github.io/art/src/entropy/).
-
-![Entropy](/img/art-entropy.png)
+[![Entropy](/img/art-entropy.png)](https://ariangilesgarcia.github.io/art/src/entropy/)
