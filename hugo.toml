@@ -1,7 +1,8 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Arian | ART'
-theme = 're-terminal'
+# theme = 're-terminal'
+theme = "hugo-theme-console"
 pagination.pagerSize = 5
 
 [languages]
