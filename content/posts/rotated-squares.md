@@ -1,4 +1,18 @@
-+++ title = "Rotated squares" date = "2024-12-14T19:2716-03:00" author = "" authorTwitter = "" #do not include @ cover = "" coverCaption = "" tags = ["art"] keywords = ["", ""] description = "" showFullContent = false readingTime = false hideComments = false color = "" #color from the theme settings +++
++++
+title = "Rotated squares"
+date = "2024-12-14T19:2716-03:00"
+author = ""
+authorTwitter = "" #do not include @
+cover = ""
+coverCaption = ""
+tags = ["art"]
+keywords = ["", ""]
+description = ""
+showFullContent = false
+readingTime = false
+hideComments = false
+color = "" #color from the theme settings
++++
 
 # Rotated squares
 
