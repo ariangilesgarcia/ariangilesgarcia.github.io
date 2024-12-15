@@ -1,5 +1,5 @@
 +++
-title = "Blob-blur"
+title = "Blob blur"
 date = "2024-12-14T11:08:49-03:00"
 author = ""
 authorTwitter = "" #do not include @
